@@ -1,1 +1,3 @@
-flask
+dicord.py
+beautifulsoup4
+google
