@@ -3,7 +3,7 @@ from googlesearch import search
 from os import path
 import json
 
-TOKEN = 'NjQ3Nzg2ODk5OTIyMjIzMTQ1.Xd4jLg.6Y9Sag4-qII0igDk8mLFLgOdW6o' #bot token
+TOKEN = 'NjQ3Nzg2ODk5OTIyMjIzMTQ1.Xd4o7w.u3nlxe1RqsQnSIFjOgUJnEmmepQ' #bot token
 GUILD = 'divyam'
 
 
